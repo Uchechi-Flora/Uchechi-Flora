@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uchechi-Flora
 - 👀 I’m interested in Web development and Data Science
-- 🌱 I’m currently learning Web dev and data science stuff
-- 💞️ I’m looking to collaborate on creating good websites, analyzing small and large data
+- 🌱 I’m currently creating some landing pages of websites and analyzing personal projects on data science stuff
+- 💞️ I’m looking to collaborate on creating good websites analyzing small and large data
 - 📫 How to reach me floranwokocha05@gmail.com 
 
 <!---
